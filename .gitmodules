@@ -1,0 +1,3 @@
+[submodule "layer_loggerpython"]
+	path = layer_loggerpython
+	url = https://github.com/franciscomatosjr/logger_python.git
